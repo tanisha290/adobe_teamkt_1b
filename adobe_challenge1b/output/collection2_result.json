@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-28T22:35:12.679281"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Change flat forms to fillable (Acrobat  Pro)",
+            "importance_rank": 1,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "\u2022 Download  Form  Field  Data  - Downloads a CSV file of the field -level content for all",
+            "importance_rank": 2,
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "What \u2019s the best way to create a PDF?",
+            "importance_rank": 3,
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "The Advanced  Settings  button opens the  Adobe  PDF Settings  dialog box, which contains many",
+            "importance_rank": 4,
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "section_title": "User Guidelines",
+            "importance_rank": 5,
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "section_title": "License  deployment",
+            "importance_rank": 6,
+            "page_number": 18
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Set privileges  and permissions for others",
+            "importance_rank": 7,
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "For more information about directory servers, see the Digital Signature  Guide .",
+            "importance_rank": 8,
+            "page_number": 27
+        },
+        {
+            "document": "The Ultimate PDF Sharing Checklist.pdf",
+            "section_title": "\u2022 Have you sent the email or shared the link through your",
+            "importance_rank": 9,
+            "page_number": 2
+        },
+        {
+            "document": "The Ultimate PDF Sharing Checklist.pdf",
+            "section_title": "\u2022 Did you enter the email addresses of clients, agents, and other",
+            "importance_rank": 10,
+            "page_number": 3
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "When you create a different form, redo this \ntask to enable Acrobat Reader users to use the tools.",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "Interactive  form  \nTo create an interactive form , use the Prepare  Forms  tool.",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "Change flat forms to fillable (Acrobat  Pro)  \nYou can change a flat form to a fillable form by either using the  Prepare  Form  tool or \nenabling the  Fill & Sign  tools.",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "Shared web forms can be viewed on the Manage page, but do not allow editing.",
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "\u2022 Download  Individu al Files  - Provides the option to download the individual PDF files \nif multiple files were used to create the web form.",
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "\u2022 Activity  for the Bulk Send parent template (orange square) - The Activity  > link at the \nbottom of the context panel opens a chronological list of the enablement actions \ntaken against the (parent) Bu lk Send template (eg:  Creation , Completed  events).",
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Or, select the hamburger menu   (Windows) or \nthe File menu (macOS)   > Create  and then select the \nappropriate file type and follow through the steps.",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign\u00ae \nfiles, digital images, and more.",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "If the balance between the file size and th e quality is critical to your task, you must use an \nappropriate conversion method.",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "PDF/A  Compliance \nCreates the PDF so that it c onforms to the selected ISO standard for long -term preservation of \nelectronic documents.",
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "These conversion settings apply to all Acrobat features that \ncreate PDFs, such as Acrobat Distiller, PDFMaker, and the Acrobat application itself.",
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Security tab of the Adobe PDFMaker preferences  \nThe settings available for PDFMaker depend on the application in which you\u2019re using \nPDFMaker.",
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "Generative AI features  cannot  replace  \nadvice  provided by a qualified  professional and do not form  any such  relationship  (for \nexample,  an attorney- client  relationship).",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "- Enhanced productivity : Work across multiple PDFs and documents in various formats, \nincluding Teams and Zoom meeting transcripts, streamlining your workflow and \nsaving time for higher -priority tasks.",
+            "page_number": 3
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "AI Assistant is also available on phones through Acrobat mobile \napps (iOS and Android).",
+            "page_number": 3
+        }
+    ]
+}
