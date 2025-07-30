@@ -2,7 +2,7 @@
 
 ## Overview
 
-This solution extracts structured outlines from PDF documents, identifying titles and headings (H1, H2, H3, H4) with their respective page numbers. The system uses **intelligent algorithms** with **minimal hardcoded logic**, making it general-purpose for most PDF structures.
+This solution extracts structured outlines from PDF documents, identifying titles and headings (H1, H2, H3, H4) with their respective page numbers. The system uses **intelligent algorithms** making it general-purpose for most PDF structures.
 
 ## Features
 
